@@ -7,7 +7,6 @@ Syntax highlighting for ease of use has been added.
 ------
 
 ### to pull down and run the code...
-------
 
 `git clone https://github.com/erindc/week-1-package-managed-project.git`
 
