@@ -1,5 +1,4 @@
 # simple base64 encoding and decoding
-------
 
 A simple tool to encode, and optionally decode, a message.
 
