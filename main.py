@@ -2,6 +2,7 @@ import pybase64
 from colorama import init
 init()
 from colorama import Fore, Back
+from sys import exit
 
 def decode(base64):
     decode = ""
